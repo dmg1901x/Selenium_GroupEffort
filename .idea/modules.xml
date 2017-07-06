@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/podTwo.InClassProject.iml" filepath="$PROJECT_DIR$/.idea/modules/podTwo.InClassProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/podTwo.InClassProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/podTwo.InClassProject_main.iml" group="podTwo.InClassProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/podTwo.InClassProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/podTwo.InClassProject_test.iml" group="podTwo.InClassProject" />
+    </modules>
+  </component>
+</project>
